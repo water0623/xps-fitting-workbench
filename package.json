@@ -1,0 +1,10 @@
+{
+  "name": "xps-fitting-workbench",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser-based physically constrained XPS peak fitting workbench",
+  "scripts": {
+    "test": "node --check app.js && node --test tests/*.test.js"
+  },
+  "license": "MIT"
+}
